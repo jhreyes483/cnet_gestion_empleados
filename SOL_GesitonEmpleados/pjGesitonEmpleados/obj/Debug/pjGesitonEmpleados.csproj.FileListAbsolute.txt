@@ -1,0 +1,11 @@
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.csproj.AssemblyReference.cache
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.Presentacion.frmConectar.resources
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.Properties.Resources.resources
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.csproj.GenerateResource.cache
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.csproj.CoreCompileInputs.cache
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\bin\Debug\pjGesitonEmpleados.exe.config
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\bin\Debug\pjGesitonEmpleados.exe
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\bin\Debug\pjGesitonEmpleados.pdb
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.exe
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.pdb
+C:\project_net_c\cnet_gestion_empleados\SOL_GesitonEmpleados\pjGesitonEmpleados\obj\Debug\pjGesitonEmpleados.exe.config
